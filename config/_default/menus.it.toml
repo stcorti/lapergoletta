@@ -1,0 +1,44 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[main]]
+  name = "Home"
+  url = "#"
+  weight = 10
+
+[[main]]
+  name = "Introduzione"
+  url = "#about"
+  weight = 20
+
+[[main]]
+  name = "L'appartamento"
+  url = "#theapartment"
+  weight = 30
+
+[[main]]
+  name = "Galleria"
+  url = "#gallery"
+  weight = 40
+
+[[main]]
+  name = "Indicazioni"
+  url = "#directions"
+  weight = 50
+
+[[main]]
+  name = "Prezzi"
+  url = "#prices"
+  weight = 60
+
+[[main]]
+  name = "Prenotare"
+  url = "#bookings"
+  weight = 70
+
+[[main]]
+  name = "Contatti"
+  url = "#contact"
+  weight = 80

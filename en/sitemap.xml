@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://casalapergoletta.it/authors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://casalapergoletta.it/it/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://casalapergoletta.it/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://casalapergoletta.it/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://casalapergoletta.it/it/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://casalapergoletta.it/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://casalapergoletta.it/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://casalapergoletta.it/it/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://casalapergoletta.it/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://casalapergoletta.it/publication_types/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://casalapergoletta.it/it/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://casalapergoletta.it/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://casalapergoletta.it/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://casalapergoletta.it/it/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://casalapergoletta.it/tags/"
+                />
+  </url>
+  
+</urlset>

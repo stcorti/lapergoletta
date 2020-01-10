@@ -31,4 +31,4 @@ Per ogni settimana di soggiorno sono previsti i seguenti costi, da pagare all’
 
 La proprietà si riserva di richiedere all’arrivo degli ospiti il versamento di un deposito cauzionale fino ad un massimo del 30% del prezzo complessivo.
 
-Sconti su prenotazioni per periodi superiori alla settimana
+Ipotesi di sconto per soggiorni più lunghi.

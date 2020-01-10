@@ -31,8 +31,4 @@ Per ogni settimana di soggiorno sono previsti i seguenti costi, da pagare all’
 
 La proprietà si riserva di richiedere all’arrivo degli ospiti il versamento di un deposito cauzionale fino ad un massimo del 30% del prezzo complessivo.
 
-### Riduzioni
-
-* Bambini fino a 5 anni: gratuito
-* Bambini da 6 a 12 anni: riduzione del 50% della quota
-* Sconti su prenotazioni per periodi superiori alla settimana
+Sconti su prenotazioni per periodi superiori alla settimana

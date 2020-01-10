@@ -31,7 +31,7 @@ Please note that for every week you will be charged with a fee for cleaning. Tho
 
 Moreover, we reserve the right to ask for an upfront 30% deposit of the total sum for your stay.
 
-#### Concessions:
+For bookings longer than one week we can offer a discount on the final price.
 
 * Kids till 5 years old: free.
 * Kids between 6 and 12 years old: 50% discount.

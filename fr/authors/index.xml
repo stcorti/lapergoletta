@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | La Pergoletta</title>
+    <link>https://casalapergoletta.it/fr/authors/</link>
+      <atom:link href="https://casalapergoletta.it/fr/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-fr</language><copyright>Copyright © Giorgio Corti 2020</copyright>
+    <image>
+      <url>https://casalapergoletta.it/img/social_share.jpg</url>
+      <title>Authors</title>
+      <link>https://casalapergoletta.it/fr/authors/</link>
+    </image>
+    
+  </channel>
+</rss>

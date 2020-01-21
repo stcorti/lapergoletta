@@ -11,6 +11,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="https://casalapergoletta.it/fr/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="it"
                 href="https://casalapergoletta.it/it/authors/"
                 />
@@ -22,6 +27,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://casalapergoletta.it/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://casalapergoletta.it/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -39,6 +49,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="https://casalapergoletta.it/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="it"
                 href="https://casalapergoletta.it/it/"
                 />
@@ -53,6 +68,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="https://casalapergoletta.it/fr/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="it"
                 href="https://casalapergoletta.it/it/publication_types/"
                 />
@@ -64,6 +84,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://casalapergoletta.it/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://casalapergoletta.it/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"

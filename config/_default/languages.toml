@@ -11,6 +11,10 @@
   languageCode = "it-it"
   contentDir = "content/it"
 
+[fr]
+  languageCode = "fr-fr"
+  contentDir = "content/fr"
+
 #[de]
 #  languageCode = "de-de"
 #  contentDir = "content/de"

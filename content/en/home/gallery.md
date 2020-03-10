@@ -122,6 +122,18 @@ image = "gallery/panorama07.jpg"
 album = "default"
 image = "gallery/panorama08.jpg"
 
+[[gallery_item]]
+album = "default"
+image = "gallery/bagno01.jpg"
+
+[[gallery_item]]
+album = "default"
+image = "gallery/bagno02.jpg"
+
+[[gallery_item]]
+album = "default"
+image = "gallery/bagno03.jpg"
+
 +++
 
 {{< gallery album="default" >}}

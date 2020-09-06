@@ -14,18 +14,6 @@ subtitle = ""
 
 [[gallery_item]]
 album = "default"
-image = "gallery/camera01.jpg"
-
-[[gallery_item]]
-album = "default"
-image = "gallery/camera02.jpg"
-
-[[gallery_item]]
-album = "default"
-image = "gallery/camera03.jpg"
-
-[[gallery_item]]
-album = "default"
 image = "gallery/esterno01.jpg"
 
 [[gallery_item]]
@@ -51,7 +39,6 @@ image = "gallery/pergola01.jpg"
 [[gallery_item]]
 album = "default"
 image = "gallery/pergola02.jpg"
-
 
 [[gallery_item]]
 album = "default"
@@ -79,6 +66,30 @@ image = "gallery/soggiorno06.jpg"
 
 [[gallery_item]]
 album = "default"
+image = "gallery/camera01.jpg"
+
+[[gallery_item]]
+album = "default"
+image = "gallery/camera02.jpg"
+
+[[gallery_item]]
+album = "default"
+image = "gallery/camera03.jpg"
+
+[[gallery_item]]
+album = "default"
+image = "gallery/bagno01.jpg"
+
+[[gallery_item]]
+album = "default"
+image = "gallery/bagno02.jpg"
+
+[[gallery_item]]
+album = "default"
+image = "gallery/bagno03.jpg"
+
+[[gallery_item]]
+album = "default"
 image = "gallery/vista01.jpg"
 
 [[gallery_item]]
@@ -88,7 +99,6 @@ image = "gallery/vista02.jpg"
 [[gallery_item]]
 album = "default"
 image = "gallery/vista03.jpg"
-
 
 [[gallery_item]]
 album = "default"
@@ -121,18 +131,6 @@ image = "gallery/panorama07.jpg"
 [[gallery_item]]
 album = "default"
 image = "gallery/panorama08.jpg"
-
-[[gallery_item]]
-album = "default"
-image = "gallery/bagno01.jpg"
-
-[[gallery_item]]
-album = "default"
-image = "gallery/bagno02.jpg"
-
-[[gallery_item]]
-album = "default"
-image = "gallery/bagno03.jpg"
 
 +++
 

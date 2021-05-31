@@ -42,6 +42,30 @@ image = "gallery/pergola02.jpg"
 
 [[gallery_item]]
 album = "default"
+image = "gallery/pergola03.jpg"
+
+[[gallery_item]]
+album = "default"
+image = "gallery/pergola04.jpg"
+
+[[gallery_item]]
+album = "default"
+image = "gallery/pergola05.jpg"
+
+[[gallery_item]]
+album = "default"
+image = "gallery/pergola06.jpg"
+
+[[gallery_item]]
+album = "default"
+image = "gallery/pergola07.jpg"
+
+[[gallery_item]]
+album = "default"
+image = "gallery/pergola08.jpg"
+
+[[gallery_item]]
+album = "default"
 image = "gallery/soggiorno01.jpg"
 
 [[gallery_item]]

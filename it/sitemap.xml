@@ -3,11 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://casalapergoletta.it/it/authors/</loc>
+    <loc>https://casalapergoletta.it/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://casalapergoletta.it/authors/"
+                href="https://casalapergoletta.it/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -17,16 +17,16 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://casalapergoletta.it/it/authors/"
+                href="https://casalapergoletta.it/authors/"
                 />
   </url>
   
   <url>
-    <loc>https://casalapergoletta.it/it/categories/</loc>
+    <loc>https://casalapergoletta.it/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://casalapergoletta.it/categories/"
+                href="https://casalapergoletta.it/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -36,16 +36,16 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://casalapergoletta.it/it/categories/"
+                href="https://casalapergoletta.it/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://casalapergoletta.it/it/</loc>
+    <loc>https://casalapergoletta.it/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://casalapergoletta.it/"
+                href="https://casalapergoletta.it/en/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -55,16 +55,16 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://casalapergoletta.it/it/"
+                href="https://casalapergoletta.it/"
                 />
   </url>
   
   <url>
-    <loc>https://casalapergoletta.it/it/publication_types/</loc>
+    <loc>https://casalapergoletta.it/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://casalapergoletta.it/publication_types/"
+                href="https://casalapergoletta.it/en/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -74,16 +74,16 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://casalapergoletta.it/it/publication_types/"
+                href="https://casalapergoletta.it/publication_types/"
                 />
   </url>
   
   <url>
-    <loc>https://casalapergoletta.it/it/tags/</loc>
+    <loc>https://casalapergoletta.it/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://casalapergoletta.it/tags/"
+                href="https://casalapergoletta.it/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -93,7 +93,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://casalapergoletta.it/it/tags/"
+                href="https://casalapergoletta.it/tags/"
                 />
   </url>
   

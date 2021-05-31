@@ -1,7 +1,7 @@
 {
   "name": "La Pergoletta",
   "short_name": "La Pergoletta",
-  "lang": "it-it",
+  "lang": "en-us",
   "theme_color": "#795548",
   "background_color": "#795548",
   "icons": [{
@@ -14,5 +14,5 @@
     "type": "image/png"
      }],
   "display": "standalone",
-  "start_url": "/it/?utm_source=web_app_manifest"
+  "start_url": "/en/?utm_source=web_app_manifest"
 }

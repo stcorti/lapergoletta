@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | La Pergoletta</title>
+    <link>https://casalapergoletta.it/en/categories/</link>
+      <atom:link href="https://casalapergoletta.it/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Giorgio Corti 2021</copyright>
+    <image>
+      <url>https://casalapergoletta.it/img/social_share.jpg</url>
+      <title>Categories</title>
+      <link>https://casalapergoletta.it/en/categories/</link>
+    </image>
+    
+  </channel>
+</rss>

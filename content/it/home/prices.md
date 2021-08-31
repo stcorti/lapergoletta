@@ -30,6 +30,8 @@ Per ogni settimana di soggiorno sono previsti i seguenti costi, da pagare all’
 * Tassa di soggiorno: **Euro 2 a persona oltre 12 anni per notte**
 * A richiesta: biancheria letto ed asciugamani bagno **Euro 10 per ospite**
 
-La proprietà si riserva di richiedere all’arrivo degli ospiti il versamento di un deposito cauzionale fino ad un massimo del 30% del prezzo complessivo.
+La proprietà si riserva di richiedere all’arrivo degli ospiti il versamento di un deposito cauzionale.
 
 Ipotesi di sconto per soggiorni più lunghi.
+
+Eventuali prenotazioni attraverso portali dedicati seguiranno le regole specifiche di ogni singolo portale.

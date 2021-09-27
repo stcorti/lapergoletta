@@ -17,8 +17,8 @@ L’appartamento viene locato a settimana con arrivo (check-in) il sabato dalle 
 
 ### Prezzi
 
-* Per i mesi di APRILE e MAGGIO: **Euro 400 a settimana**
-* Per i mesi di GIUGNO e SETTEMBRE: **Euro 420 a settimana**
+* Per i mesi di APRILE e MAGGIO: **a partire da Euro 400 a settimana**
+* Per i mesi di GIUGNO e SETTEMBRE: **a partire da Euro 420 a settimana**
 * Per i mesi di LUGLIO e AGOSTO: **a partire da Euro 450 a settimana**
 * Per i mesi da OTTOBRE a MARZO: Prezzi da concordare con la proprietà
 
@@ -26,7 +26,7 @@ L’appartamento viene locato a settimana con arrivo (check-in) il sabato dalle 
 
 Per ogni settimana di soggiorno sono previsti i seguenti costi, da pagare all’arrivo alla ricezione delle chiavi:
 
-* Pulizie finali e biancheria: **Euro 30 per settimana**
+* Pulizie finali: **Euro 30 per settimana**
 * Tassa di soggiorno: **Euro 2 a persona oltre 12 anni per notte**
 * A richiesta: biancheria letto ed asciugamani bagno **Euro 10 per ospite**
 

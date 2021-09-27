@@ -17,17 +17,18 @@ The apartment is rented on a weekly basis. The checkin is on Saturday from **3.0
 
 ### Prices
 
-* Between APRIL and MAY: **320 Euro per week**.
-* Between JUNE and SEPTEMBER: **380 Euro per week**.
-* Between JULY and AUGUST: **450 Euro per week**.
+* Between APRIL and MAY: **from 400 Euro per week**.
+* Between JUNE and SEPTEMBER: **from 420 Euro per week**.
+* Between JULY and AUGUST: **from 450 Euro per week**.
 * Between OCTOBER and MARCH: please contact us to get a quote.
 
 #### Service fee, cleaning and deposit
 
 Please note that for every week you will be charged with a fee for cleaning. Those fees are to be considered on a weekly basis:
 
-* Final cleaning and Linen: **50 Euro per week**
+* Final cleaning: **30 Euro per week**
 * City Tax: **2 Euro per adult above 12 y.o. per night**
+* Upon request: linen and bathroom towels **Euro 10 per guest**
 
 Moreover, we reserve the right to ask for an upfront 30% deposit of the total sum for your stay.
 
